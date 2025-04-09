@@ -1,0 +1,4 @@
+.env
+venv
+*.pdf
+dis_predictor/db
